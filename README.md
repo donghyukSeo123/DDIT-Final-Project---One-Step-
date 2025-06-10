@@ -92,11 +92,6 @@
  
 ---
 
-## 🖼️ 데모 및 결과물
-
-
-![alt text](image.png)
-
 ## 📬 연락
 
 - GitHub: [https://github.com/donghyukSeo123](https://github.com/donghyukSeo123)
